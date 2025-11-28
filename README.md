@@ -26,10 +26,11 @@ A simple Laravel application called Task built for managing tasks/projects
 
 * Blade Templates
 
-***Installation***
+***Installation**
+
 ****Clone the repository****
-git clone https://github.com/your-username/your-project.git
-cd 
+git clone https://github.com/OlumideOkuntade/task_management
+cd task_management
 
 ***Install dependencies***
 * composer install
